@@ -1,2 +1,5 @@
 # Data-Science
-Unleashing the power of data through code in the world of Data Science.
+This is my repository where projects regarding 
+Data Science will be uploaded.
+<br>
+Author - Raghunandan K B
