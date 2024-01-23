@@ -1,0 +1,8 @@
+1 tensorflow==2.5.0
+2 fastapi
+3 uvicorn
+4 python-multipart
+5 pillow
+6 tensorflow-serving-api==2.5.0
+7 matplotlib
+8 numpy
